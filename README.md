@@ -27,7 +27,7 @@ Numerical integration is a fundamental technique in applied mathematics and comp
 [Gauss-Legendre Quadrature](https://en.wikipedia.org/wiki/Gauss%E2%80%93Legendre_quadrature) is a more precise method, especially for integrals over fixed domains. It uses specific sample points and weights derived from the roots of [Legendre polynomials](https://en.wikipedia.org/wiki/Legendre_polynomials) to approximate the integral.
 
 ## Content
-- **writeup.pdf**: Summarizes the results of the numerical integration methods.
-- **Monte_Carlo_and_Gauss_Legendre_Integration.mlx**: Contains the MATLAB code implementing the Monte Carlo and Gauss-Legendre integration techniques.
+- `Report/writeup.pdf`: Summarizes the results of the numerical integration methods.
+- `src/Monte_Carlo_and_Gauss_Legendre_Integration.mlx`: Contains the MATLAB code implementing the Monte Carlo and Gauss-Legendre integration techniques.
 
 
